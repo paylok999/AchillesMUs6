@@ -1,0 +1,1 @@
+Illusion Temple Classic available for Season 6 Episode 3 version only

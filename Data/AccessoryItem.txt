@@ -1,0 +1,42 @@
+//############################################################
+//# -- INTERNATIONAL GAMING CENTER NETWORK
+//# -- www.igcn.mu
+//# -- (C) 2010-2016 IGC-Network (R)
+//# ---------------------------------------------------------
+//# -- File is a part of IGCN Group MuOnline Server files.
+//############################################################
+
+// -- Accessory Item Drop configuration, accepts item defined below only
+
+// [1] - Item Category
+// [2] - Item Index
+// [3] - Option value for item level 0
+// [4] - Option value for item level 1
+// [5] - Option value for item level 2
+// [6] - Option value for item level 3
+// [7] - Option value for item level 4
+// [8] - Option value for item level 5
+// [9] - Option value for item level 6
+// [10] - Option value for item level 7
+// [11] - Option value for item level 8
+// [12] - Option value for item level 9
+// [13] - Option value for item level 10
+// [14] - Option value for item level 11
+// [15] - Option value for item level 12
+// [16] - Option value for item level 13
+// [17] - Option value for item level 14
+// [18] - Option value for item level 15
+// [19] - Description
+
+// Columns 3-18 expressed as percentage, minimum value 1, must have % character
+
+// ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+//	[1]	[2]		[3]		[4]		[5]		[6]		[7]		[8]		[9]		[10]	[11]	[12]	[13]	[14]	[15]	[16]	[17]	[18]	[19]
+// ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+	13	171		1%		2%		3%		4%		5%		6%		7%		8%		9%		10%		11%		12%		13%		14%		15%		16%		// Necklace of Agony																	
+	13	172		1%		2%		3%		4%		5%		6%		7%		8%		9%		10%		11%		12%		13%		14%		15%		16%		// Solid Symbol																	
+	13	173		1%		2%		3%		4%		5%		6%		7%		8%		9%		10%		11%		12%		13%		14%		15%		16%		// Ring of Ultimatum																		
+	13	174		1%		1%		2%		3%		4%		5%		6%		7%		8%		9%		10%		11%		12%		13%		14%		15%		// Ring of Block																	
+	13	175		1%		2%		3%		4%		5%		6%		7%		8%		9%		10%		11%		12%		13%		14%		15%		16%		// Protector Protection Ring																	
+	13	176		1%		2%		3%		4%		5%		6%		7%		8%		9%		10%		11%		12%		13%		14%		15%		16%		// Protection Ring																	
+end																																					
